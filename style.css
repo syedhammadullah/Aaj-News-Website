@@ -1,0 +1,50 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.start {
+  text-align: center;
+}
+
+.one {
+  color: yellowgreen;
+  font-family: sans-serif;
+  text-align: center;
+}
+.two {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Roboto:wght@900&display=swap");
+.three {
+  font-family: "Roboto", sans-serif;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+.four {
+  color: green;
+}
+.five {
+  color: darkolivegreen;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.six {
+  text-align: center;
+}
+.end{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.last{
+  text-align: center;
+  font-size: large;
+  font-weight: bolder;
+  color: black;
+  background-color: lightslategray;
+}
